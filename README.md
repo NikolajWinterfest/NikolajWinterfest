@@ -18,10 +18,10 @@
 <div id="badges">
     <a href="https://t.me/NikolajW" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="40" height="40" />
-    </a>&nbsp;
+    </a>
     <a href="mailto:nikolaj.create@gmail.com">
       <img src="/assets/icons/GoogleMail.svg" alt="gmail" width="40" height="40" />
-    </a>&nbsp;
+    </a>
 </div>
 
 ---
