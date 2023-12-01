@@ -13,7 +13,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
     <a href="https://nikolaj.create@gmail.com">
-    <img src="/assets/icons/GoogleMail.svg" alt="gmail" />
+    <img src="/assets/icons/GoogleMail.svg" alt="gmail" width="40" height="40" />
     </a>
   </div>
 
