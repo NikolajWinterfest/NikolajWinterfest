@@ -32,6 +32,7 @@
   <img src="/assets/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="/assets/icons/CSS.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
   <img src="/assets/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/TypeScript.svg" title="javascript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="/assets/icons/React.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="/assets/icons/Vue.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
   <img src="/assets/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
