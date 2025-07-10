@@ -47,7 +47,7 @@
 ### 🛠 Инструменты:
 
 <div>
-  <img src="/assets/icons/VScode.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Figma.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Photoshop.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/VScode.svg" title="VSCode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Figma.svg" title="Figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Photoshop.svg" title="Photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
