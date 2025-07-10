@@ -30,16 +30,16 @@
 ### 💻 Технологии:
 
 <div>
-  <img src="/assets/icons/HTML.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/CSS.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/JavaScript.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/TypeScript.svg" title="javascript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/React.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Vue.svg" title="vue" alt="vue" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Webpack.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/Vite.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
-  <img src="/assets/icons/NodeJS.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/HTML.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/CSS.svg" title="CSS3" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/JavaScript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/TypeScript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/React.svg" title="React" alt="react" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Vue.svg" title="Vue" alt="vue" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Git.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Webpack.svg" title="Webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/Vite.svg" title="Vite" alt="vite" width="40" height="40"/>&nbsp;
+  <img src="/assets/icons/NodeJS.svg" title="NodeJS" alt="nodejs" width="40" height="40"/>&nbsp;
 </div>
 
 ---
